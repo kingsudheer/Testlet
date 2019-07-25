@@ -1,0 +1,6 @@
+c:\DotNet\ApplicationTestlet\ApplicationTestlet\bin\Debug\ApplicationTestlet.exe.config
+c:\DotNet\ApplicationTestlet\ApplicationTestlet\bin\Debug\ApplicationTestlet.exe
+c:\DotNet\ApplicationTestlet\ApplicationTestlet\bin\Debug\ApplicationTestlet.pdb
+c:\DotNet\ApplicationTestlet\ApplicationTestlet\obj\Debug\ApplicationTestlet.csprojResolveAssemblyReference.cache
+c:\DotNet\ApplicationTestlet\ApplicationTestlet\obj\Debug\ApplicationTestlet.exe
+c:\DotNet\ApplicationTestlet\ApplicationTestlet\obj\Debug\ApplicationTestlet.pdb
